@@ -1,7 +1,7 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  title: ARM Big Data Summer School
+  title: ARM Big Open Data Summer School
   description: Connecting ARM's Unique Data Record with State-of-the-Art Analysis
   # keywords: []
   authors:
