@@ -11,7 +11,7 @@ Please list your instructors and mentors below!
 | :------- | ------- |:------- |
 | Scott Collis | Argonne National Laboratory | [Github](https://github.com/scollis) |
 | Joseph O'Brien | Argonne National Laboratory | [Github](https://github.com/jrobrien91) |
-| Mark Spychala | Argonne National Laboratory  |  |
+| Mark Spychala | Argonne National Laboratory  | [Github](https://github.com/Metspy) |
 | Patty Campbell | Argonne National Laboratory |  |
 | Sid Gupta | Argonne National Laboratory | [Github](https://github.com/sgupta92) |
 
