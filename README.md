@@ -80,7 +80,7 @@ Please list your instructors and mentors below!
 | 02:00 PM - 04:00 PM  | Group Work Time |  Everyone                |                        |
 | 04:00 PM - 05:00 PM  | Final Prep of Presentations | Everyone                |             |
 
-### Friday May 22, 2025
+### Friday May 22, 2026
 
 | Time                 | Topic                                  | Presenter(s)                       |
 | :---:                |    :----:                              |    :---:                           |
