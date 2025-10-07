@@ -21,7 +21,7 @@ __Upon completion you will have__:
 ### Slack Account
 
 All of our communication throughout the hackweek will be done using the
-[Summer School Slack workspace](https://join.slack.com/t/armsummerschool/shared_invite/zt-34w7667za-gIHCMelGdAEnpI1LNUvhuA).
+Summer School Slack workspace (**NOTE** Add shared link back in).
 With your invite to the hackweek, you should also have received a separate
 email to join the Slack workspace. Upon accepting the invite, please take a moment to
 [complete your Slack profile](https://slack.com/help/articles/204092246-Edit-your-profile).
