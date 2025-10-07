@@ -1,28 +1,47 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  title: Hackathon Template Github
-  description: Github Pages based template for hackathons
+  title: ARM Big Data Summer School
+  description: Connecting ARM's Unique Data Record with State-of-the-Art Analysis
   # keywords: []
   authors:
-    - name: Instructor Name
-      orcid: XXXX-XXXX-XXXX-XXXX
-      github: username
-  github: https://github.com/hackthackathon/hackathon-template-github
+    - name: Joe O'Brien
+      orcid: 0000-0003-4655-6912
+      github: jrobrien91
+    - name: Scott Collis
+      orcid: 0000-0002-2303-687X
+      github: scollis
+    - name: Mark Spychala
+    - name: Patty Campbell
+    - name: Sid Gupta
+      orcid: 0000-0002-0663-4595
+  github: https://github.com/jrobrien91/arm-summer-school-2026
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: README.md
-    - title: Organizing Preparation
+    - title: Preparation
       children:
-        - file: organizers/getting-started.md
-        - file: organizers/organizing-checklist.md
-        - file: organizers/survey-template.md
-    - title: Projects
-      children:
-        - pattern: 'projects/project-*'
+        - file: preliminary/checklist_index
+          children:
+            - file: preliminary/checklist/github
+            - file: preliminary/checklist/jupyterhub
+            - file: preliminary/checklist/git
+            - file: preliminary/checklist/armdata
+        - file: preliminary/skills_refresher_index
+          children:
+            - file: preliminary/skills-refresher/swc
+    - title: Tutorials
+        - file: notebooks/act/ACT-Basics-BNF.ipynb
+        - file: notebooks/act/act-tower-data.ipynb
+        - file: notebooks/pyart/pyart-basics.ipynb
+        - file: notebooks/pyart/pyart-corrections.ipynb
+        - file: notebooks/pyart/pyart-qpe.ipynb
+    - file: projects/README.md
 site:
-  template: book-theme
-  # Modify this section with the logos of your choice
   options:
-    favicon: https://hackthackathon.github.io/images/navbar-logo.png
-    logo: https://hackthackathon.github.io/images/navbar-logo.png
+    logo: images/arm_logo.png
+    footer_logos:
+        ARM: images/arm_logo.png
+  nav:
+    - title: ARM Home
+      url: https://www.arm.gov/
