@@ -1,4 +1,4 @@
-# ARM Big-Data Summer School 2026
+# 2026 ARM Big Open Data Summer School
 
 **Monday, May 18, to Friday, May 22, 2026**
 
