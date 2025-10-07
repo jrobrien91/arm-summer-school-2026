@@ -8,9 +8,15 @@ ARM Data is stored in the ARM Data Center (ADC) at Oak Ridge National Laboratory
 
 Each participant will need a login. We will be teaching you ways to programmatically access ARM data from within your Python scripts. You will need to enter your ARM username and password in order for this to work.
 
+## ORCiD
+
+Starting October 1st, 2025, all users will be required to link their [ORCiD](https://orcid.org/) to their ARM account during creation. 
+
+ORCiD is a free, unique, persistent identifier (PID) for individuals to use as they engage in research and scholarship. If you do not have an ORCiD, please Sign Up before registering with ARM. 
+
 ## Getting an ARM Data login
 
 If you do not already have an ARM Data login, then navigate to the [ARM Login](https://adc.arm.gov/armuserreg/) page, select
 "Not registered? Registration is free and easy. Sign up and use your account immediately!"
 
-enter a username and password.
+Enter a Username and Password.
