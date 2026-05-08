@@ -20,23 +20,28 @@ project:
     - name: Bhupendra Raut
       orcid: 0000-0001-5598-1393
       github: RBhupi
+    - name: Jingjing Tian
+    - name: Maria Cadeddu
+    - name: Andrew Dzambo
+    - name: Connor Flynn
+      orcid: 0000-0002-9182-6531
+      github: ConnorJFlynn
+    - name: Michael Giansiracusa
+    - name: Bill Gustafson
+      orcid: 0000-0001-9927-1393
+      github: wgustafson
+    - name: Hsi-Yen Ma
+    - name: Chirag Shah
+    - name: Alyssa Sockol
+      orcid: 0009-0001-1787-392X
+      github: ajsockol
     - name: Mark Spychala
       orcid: 0000-0001-9821-9411
       github: Metspy
     - name: Adam Theisen
       orcid: 0000-0002-7602-1057
       github: AdamTheisen
-    - name: Bill Gustafson
-      orcid: 0000-0001-9927-1393
-      github: wgustafson
-    - name: Alyssa Sockol
-      orcid: 0009-0001-1787-392X
-      github: ajsockol
-    - name: Maria Cadeddu
-    - name: Connor Flynn
-      orcid: 0000-0002-9182-6531
-      github: ConnorJFlynn
-    - name: Hsi-Yen Ma
+    - name: Maria Zawadowicz
   github: https://github.com/jrobrien91/arm-summer-school-2026
   bibliography: references.bib
   # To autogenerate a Table of Contents, run "myst init --write-toc"
