@@ -12,9 +12,7 @@ dependencies:
   - matplotlib
   - pydda
   - jaxopt
-  - tensorflow>=2.6
   - xradar
-  - tensorflow-probability>=0.24
   - tobac
   - scikit-learn
   - pytorch
