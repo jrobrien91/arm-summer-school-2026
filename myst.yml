@@ -83,6 +83,7 @@ project:
           children:
             - file: notebooks/ai-ml/unsupervised-learning-sonde.ipynb
             - file: notebooks/ai-ml/supervised-mlp-ldquants-qpe.ipynb
+            - file: notebooks/ai-ml/random-forest-sail-swe.ipynb
     - title: Projects
       children:
         - file: projects/projects.md
