@@ -58,8 +58,6 @@ project:
           children:
             - file: preliminary/checklist/armdata.md
             - file: preliminary/checklist/github.md
-            - file: preliminary/checklist/jupyterhub.md
-            - file: preliminary/checklist/git.md
         - file: preliminary/skills_refresher_index.md
           children:
             - file: preliminary/skills-refresher/swc.md
