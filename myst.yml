@@ -54,7 +54,7 @@ project:
         - file: organizers/mentors.md
     - title: Preparation
       children:
-        - file: preliminary/checklist_index.md
+        - file: preliminary/checklist_index_before.md
           children:
             - file: preliminary/checklist/armdata.md
             - file: preliminary/checklist/github.md
