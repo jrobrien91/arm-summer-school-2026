@@ -10,9 +10,10 @@ Links to each presentation are included within. However, users may need to reque
 
 | Time                | Location               | Activity                         |
 | :---:               | :----:                 | :---:                            |
-| 05:45 PM - 06:00 PM | Assemble in Hotel Lobby for Group Dinner | Check Slack for Dinner Location! |
-| 06:00 PM - 08:00 PM | Group Kickoff Dinner                     |                                  |
-| 08:00 PM - 08:15 PM | Return to Hotel Lobby                    |                                  |
+| 05:00 PM - 06:45 PM | Assemble in Hotel Lobby / Join Up for Dinner           | Check Slack for Dinner Location! |
+| 06:45 PM - 07:00 PM | Assemble in the Hotel Lobby for Kickoff Group Activity | Check Slack for More Info!       |
+| 07:00 PM - 08:00 PM | Kickoff Group Activity                                 |                                  |
+| 08:00 PM            | Return to Hotel Lobby                                  |                                  |
 
 ## Monday, 18 May 2026
 ### Introduction Session
@@ -64,8 +65,8 @@ Links to each presentation are included within. However, users may need to reque
 | 09:30 AM - 10:00 AM  | [Introduction to Py-ART](notebooks/pyart/pyart-basics.ipynb)   | Bhupendra Raut                     |
 | 10:00 AM - 10:30 AM  | Coffee/Tea Break                                               |                                    |
 | 10:30 AM - 11:15 AM  | [Introduction to ACT](notebooks/act/ACT-Basics-SGP.ipynb)      | Adam Theisen                       |
-| 11:15 AM - 12:00 PM  | [Introduction to AI/ML](notebooks/ai-ml/unsupervised-learning-sonde.ipynb)                                          | Bobby Jackson                      |
-| 12:00 PM - 01:00 PM  | Lunch and Learn 3: Simulation Data with LASSO                  | Bill Gustafson                     |
+| 11:15 AM - 12:00 PM  | [Introduction to AI/ML](notebooks/ai-ml/unsupervised-learning-sonde.ipynb) | Bobby Jackson          |
+| 12:00 PM - 01:00 PM  | Lunch and Learn 3: Multiscale Modeling Meets ARM Data          | Bill Gustafson & Hsi-Yen Ma        |
 
 ### Group Project Session 1
 | Time                 | Topic                                                          | Presenter(s)                       |
