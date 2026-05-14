@@ -2,7 +2,9 @@
 
 Below contains the 2026 ARM Big Open Data Summer School Schedule. <br>
 
-Links to each presentation are included within. However, users may need to request access to view each.
+Links to each presentation are included within. However, users may need to request access to view each. <br>
+
+Subject to change. Organizers will highlight changes within the 2026 Summer School slack space.
 
 ## Sunday, 17 May 2026
 
@@ -95,4 +97,4 @@ Links to each presentation are included within. However, users may need to reque
 | 08:30 AM - 09:00 AM  | Next Steps with the Jupyterhub + ARM   | Michael Giansiracusa               |
 | 09:00 AM - 10:00 AM  | Survey Time + Coffee/Tea               | Joe O'Brien                        |
 | 10:00 AM - 11:15 AM  | Project Presentations                  | Everyone                           |
-| 11:15 AM             | Closing Remarks + Lunch to Go          | Scott Collis                       |
+| 11:15 AM             | Closing Remarks                        | Scott Collis                       |
