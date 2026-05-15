@@ -112,3 +112,35 @@ Dr. Hsi-Yen Ma an atmospheric scientist within the Atmospheric, Earth, and Energ
 | Hsi-Yen Ma | Lawrence Livermore National Laboratory | TBD | [Github](https://github.com/hyma68) |
 
 ```
+
+```{figure} ../images/headshots/Dzambo_Headshot.png
+:width: 250px
+
+Dr. Andrew Dzambo is currently a Research Scientist in the CIWRO Cloud Physics Research Group at the University of Oklahoma. Before joining OU, Andrew worked on his PhD at the University of Wisconsin, Madison, characterizing cloud and precipitation properties from the 2016-18 NASA ORACLES field campaign that took place over the southeast Atlantic Ocean. Andrew has worked on a variety of projects and field campaigns since ORACLES including the 2022 NSF ESCAPE campaign in Houston and the 2024 NSF CAESAR campaign in Kiruna, Sweden. His current research interests include exploring methodologies to better constrain uncertainty quantity-dimension relationships for use in cloud property parameterizations in weather models, mesoscale/dynamic processes that influence observed cloud macrophysical properties including gravity waves and turbulence, and polar cloud observations. A core component of Andrew's research activities include the use of Atmospheric Radiation Measurement (ARM) program measurements from mobile deployments including RHUBC-II, MC3E and MOSAiC as well as long-term ARM site datasets such as the Southern Great Plains (SGP) and North Slope Alaska (NSA) sites.
+
+| Instructor | Affiliation | Project Lead  | Links |
+| :--------: | :---------: | :-----------: | :---: |
+| Andrew Dzambo | Cooperative Institute for Severe and High-Impact Weather Research and Operations (CIWRO) | TBD |  |
+
+```
+```{figure} ../images/headshots/chirag-shah-profile.jpg
+:width: 250px
+
+Chirag Shah is an Environmental Data Science Engineer within the Environmental Sciences Division at Oak Ridge National Laboratory. He specializes in developing cutting-edge software platforms that help scientists to explore, visualize, and interact with large-scale atmospheric and environmental datasets. Chirag works on developing scientific software platforms as part of the Atmospheric Radiation Measurement User Facility Data Center. Chirag is a member of both the ARM User Tools Team and the core AI in ARM Team. In his work within ARM, he focuses on creating new infrastructures and capabilities for operationalizing AI capabilities in scientific workflows. Some of the current projects that Chirag works on are aimed at the development of more sophisticated agentic AI frameworks, improving scientific data discovery platforms, and using AI to develop tools for metadata generation, scientific data exploration, and data analysis. His areas of interest include scientific data management, distributed systems, AI and ML, cloud computing, and data visualization.
+
+| Instructor | Affiliation | Project Lead  | Links |
+| :--------: | :---------: | :-----------: | :---: |
+| Chirag Shah | Oak Ridge National Laboratory | TBD | [Github](https://github.com/shahchiragh) |
+
+```
+
+```{figure} ../images/headshots/JingjingTian_Photo.jpg
+:width: 250px
+
+Dr. Jingjing Tian is an Earth scientist and ARM data analyst at Pacific Northwest National Laboratory. Her research interests focus on cloud and precipitation using ground-based and satellite remote sensing observations, retrieval algorithms, and machine learning/artificial intelligence methods. She has developed and applied ARM observational datasets and AI/ML approaches to study cloud regimes and aerosol vertical distributions. Jingjing is a member of the core AI in ARM Team, where she contributes to science-focused AI governance, standards, and responsible AI/ML applications for ARM data.
+
+| Instructor | Affiliation | Project Lead  | Links |
+| :--------: | :---------: | :-----------: | :---: |
+| Jingjing Tian | Pacific Northwest National Laboratory | TBD | [Github](https://github.com/JingjingTina) |
+
+```
