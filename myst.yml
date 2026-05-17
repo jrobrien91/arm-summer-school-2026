@@ -3,6 +3,7 @@ version: 1
 project:
   title: ARM Big Open Data Summer School
   description: Connecting ARM's Unique Data Record with State-of-the-Art Analysis
+  github: https://github.com/ARM-Development/arm-summer-school-2026
   # keywords: []
   authors:
     - name: Joe O'Brien
@@ -47,7 +48,6 @@ project:
       orcid: 0000-0002-7602-1057
       github: AdamTheisen
     - name: Maria Zawadowicz
-  github: https://github.com/jrobrien91/arm-summer-school-2026
   bibliography: references.bib
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
@@ -108,3 +108,6 @@ site:
       url: https://dq.arm.gov/dq-plotbrowser/
     - title: ARM JupyterHub
       url: https://jupyterhub.arm.gov/
+  actions:
+    - title: Launch Environment
+      url: https://jupyterhub.arm.gov/hub/user-redirect/lab/tree/arm-summer-school-2026/notebooks
