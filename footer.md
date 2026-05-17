@@ -1,1 +1,1 @@
-© 2026 ARM Open Science Community · 
+© 2026 ARM Open Science Community | [Atmospheric Radiation Measurement (ARM) User Facility](https://www.arm.gov/) | [Code of Conduct](CODE_OF_CONDUCT.md)
