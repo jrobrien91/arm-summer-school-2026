@@ -38,7 +38,7 @@ Subject to change. Organizers will highlight changes within the 2026 Summer Scho
 | 01:20 PM - 01:40 PM  | [Fundamentals of Aerosol Observations](https://drive.google.com/file/d/1PabvJmJewtUE6UITkuvcbdGjqVhHWSln/view?usp=sharing)            | Maria Zawadowicz                   |
 | 01:40 PM - 02:00 PM  | [Fundamentals of Remote Sensing and Atmospheric Radiation](https://drive.google.com/file/d/1tFJd7zV1MSy350B24H_lX6pQOv1BaS6J/view?usp=sharing) | Connor Flynn              |
 | 02:00 PM - 02:20 PM  | ARM Decadal Analysis                            | Adam Theisen                       |
-| 02:20 PM - 02:40 PM  | Fundamentals of Machine Learning                | Bhupendra Raut                     |
+| 02:20 PM - 02:40 PM  | [Fundamentals of Machine Learning](https://drive.google.com/file/d/1HM3hs_0a-0jVANMgxT5zOyn_iYhEd75a/view?usp=sharing)                | Bhupendra Raut                     |
 | 02:40 PM - 03:00 PM  | Break / Travel Time                             |                                    |
 | 03:00 PM - 04:00 PM  | Tour of the [OU ARRC](https://arrc.ou.edu/)     |                                    |
 | 04:00 PM - 05:00 PM  | Project Pitches                                 | Joe O'Brien and Scott Collis       |
