@@ -28,7 +28,7 @@ Subject to change. Organizers will highlight changes within the 2026 Summer Scho
 | 10:00 AM - 10:30 AM  | Coffee/Tea Break                                |                                    |
 | 10:30 AM - 11:00 AM  | Intro to ARM Accounts and Site Access  Requests | Mark Spychala                      |
 | 11:00 AM - 11:30 PM  | Intro to ARM Data/Accounts                      | Michael Giansiracusa               |
-| 11:30 AM - 12:00 AM  | Data Quality Operations in ARM                  | Alyssa Sockol                      |
+| 11:30 AM - 12:00 PM  | Data Quality Operations in ARM                  | Alyssa Sockol                      |
 | 12:00 PM - 01:00 PM  | Lunch and Learn 1: Elevator Pitch Introductions | Joe O'Brien                        |
 
 ### Fundamental Science Session
