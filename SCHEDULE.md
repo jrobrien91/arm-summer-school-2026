@@ -23,20 +23,20 @@ Subject to change. Organizers will highlight changes within the 2026 Summer Scho
 | :---:                | :----:                                          | :---:                              |
 | 07:45 AM - 08:00 AM  | Travel to National Weather Center               |                                    |
 | 08:30 AM - 09:00 AM  | Intro to ARM                                    | Jim Mather and Sally McFarlane     |
-| 09:00 AM - 09:15 AM  | Host Introduction - CIWRO                       | Greg McFarqhuar                    |
-| 09:15 AM - 10:00 AM  | Intro to 2026 Summer School and SGP             | Scott Collis and Joe O'Brien       |
+| 09:00 AM - 09:15 AM  | [Host Introduction - CIWRO](https://drive.google.com/file/d/1JF8s2IHfNskdWrIROpUezP4_eg50i-XK/view?usp=sharing)               | Greg McFarqhuar                    |
+| 09:15 AM - 10:00 AM  | [Intro to 2026 Summer School and SGP](https://drive.google.com/file/d/1jdm5w0utVHtO2cWOxwGXA_OwK5QYsM2G/view?usp=sharing)          | Scott Collis and Joe O'Brien       |
 | 10:00 AM - 10:30 AM  | Coffee/Tea Break                                |                                    |
-| 10:30 AM - 11:00 AM  | Intro to ARM Accounts and Site Access  Requests | Mark Spychala                      |
+| 10:30 AM - 11:00 AM  | [Intro to ARM Accounts and Site Access  Requests](https://drive.google.com/file/d/1-1uqbhkctC8eBnAXM7vboIH-DRZspM0T/view?usp=sharing) | Mark Spychala                      |
 | 11:00 AM - 11:30 PM  | Intro to ARM Data/Accounts                      | Michael Giansiracusa               |
-| 11:30 AM - 12:00 PM  | Data Quality Operations in ARM                  | Alyssa Sockol                      |
+| 11:30 AM - 12:00 PM  | [Data Quality Operations in ARM](https://drive.google.com/file/d/1Phqx7iUvUcLD6jHa_YCfx7uza_TtLxKa/view?usp=sharing)                  | Alyssa Sockol                      |
 | 12:00 PM - 01:00 PM  | Lunch and Learn 1: Elevator Pitch Introductions | Joe O'Brien                        |
 
 ### Fundamental Science Session
 | Time                 | Topic                                           | Presenter(s)                       |
 | :----:               | :----:                                          | :---:                              |
-| 01:00 PM - 01:20 PM  | Fundamentals of Cloud Microphysics              | Andrew Dzambo                      |
-| 01:20 PM - 01:40 PM  | Fundamentals of Aerosol Observations            | Maria Zawadowicz                   |
-| 01:40 PM - 02:00 PM  | Fundamentals of Remote Sensing and Atmospheric Radiation | Connor Flynn              |
+| 01:00 PM - 01:20 PM  | [Fundamentals of Cloud Microphysics](https://drive.google.com/file/d/1M0K89NOKoW5KWD8YFb-jkftQPRBeYZKr/view?usp=sharing)              | Andrew Dzambo                      |
+| 01:20 PM - 01:40 PM  | [Fundamentals of Aerosol Observations](https://drive.google.com/file/d/1PabvJmJewtUE6UITkuvcbdGjqVhHWSln/view?usp=sharing)            | Maria Zawadowicz                   |
+| 01:40 PM - 02:00 PM  | [Fundamentals of Remote Sensing and Atmospheric Radiation](https://drive.google.com/file/d/1tFJd7zV1MSy350B24H_lX6pQOv1BaS6J/view?usp=sharing) | Connor Flynn              |
 | 02:00 PM - 02:20 PM  | ARM Decadal Analysis                            | Adam Theisen                       |
 | 02:20 PM - 02:40 PM  | Fundamentals of Machine Learning                | Bhupendra Raut                     |
 | 02:40 PM - 03:00 PM  | Break / Travel Time                             |                                    |
