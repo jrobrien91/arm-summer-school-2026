@@ -56,7 +56,7 @@ def JDtocal(obstime, nn):
 
 ###############################################################################################
 ###################################################
-###########FUNCTION TO READ model##
+###########FUNCTION TO READ model data##
 def readmodel(filename):
 
  month=np.array([])
@@ -73,8 +73,31 @@ def readmodel(filename):
    tb31=np.append(tb31,row[25])
    pwv=np.append(pwv,row[14])  ##cm
    lwp=np.append(lwp,row[15])  ##mm
-
+  ########
+ ##########
  print('FOUND SIMULATIONS ', len(tb23))
  return(month,tb23,tb31,pwv,lwp)
+###########END FUNCTION############
 
+#############################################################################
+###########FUNCTION TO READ mwr3c netcdf file
+def readmwr3cb1(filename):
+  set=nc.Dataset(filename,'r')
+  dim = set.dimensions['time']
+  npt=np.array(len(dim))
+  print('NUMBER OF MWR3c b1 OBSERVATIONS ', npt)
 
+  basetime = np.array(set.variables['base_time'])
+  offset = np.array(set.variables['time_offset'])
+  lwp = np.array(set.variables['lwp'])    
+  pwv = np.array(set.variables['pwv']) 
+  tbsky23 = np.array(set.variables['tbsky23']) 
+  tbsky31 = np.array(set.variables['tbsky31'])
+  tbsky90 = np.array(set.variables['tbsky90'])
+  rainflag = np.array(set.variables['rain_flag'])
+  rh = np.array(set.variables['surface_relative_humidity'])
+  temp = np.array(set.variables['surface_temperature'])
+  irt = np.array(set.variables['infrared_temperature'])
+  set.close()
+  jtime=basetime+offset
+  return [jtime, lwp,pwv,tbsky23,tbsky31,tbsky90,rainflag, npt]
