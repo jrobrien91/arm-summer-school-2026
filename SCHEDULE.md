@@ -64,9 +64,9 @@ Subject to change. Organizers will highlight changes within the 2026 Summer Scho
 | 08:00 AM - 08:15 AM  | Travel to National Weather Center                              |                                    |
 | 08:30 AM - 09:00 AM  | Finalize Project Pitch Decks                                   | Joe O'Brien                        |
 | 09:00 AM - 09:30 AM  | Introduction to ARM JupyterHub                                 | Joe O'Brien                        |
-| 09:30 AM - 10:00 AM  | [Introduction to Py-ART](notebooks/pyart/pyart-basics.ipynb)   | Bhupendra Raut                     |
+| 09:30 AM - 10:00 AM  | [Introduction to ACT](notebooks/act/ACT-Basics-SGP.ipynb)      | Adam Theisen                       |
 | 10:00 AM - 10:30 AM  | Coffee/Tea Break                                               |                                    |
-| 10:30 AM - 11:15 AM  | [Introduction to ACT](notebooks/act/ACT-Basics-SGP.ipynb)      | Adam Theisen                       |
+| 10:30 AM - 11:15 AM  | [Introduction to Py-ART](notebooks/pyart/pyart-basics.ipynb)   | Bhupendra Raut                     |
 | 11:15 AM - 12:00 PM  | [Introduction to AI/ML](notebooks/ai-ml/unsupervised-learning-sonde.ipynb) | Bobby Jackson          |
 | 12:00 PM - 01:00 PM  | Lunch and Learn 3: Multiscale Modeling Meets ARM Data          | Bill Gustafson & Hsi-Yen Ma        |
 
