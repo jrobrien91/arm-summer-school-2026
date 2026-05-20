@@ -51,9 +51,11 @@ Subject to change. Organizers will highlight changes within the 2026 Summer Scho
 | 08:30 AM - 08:45 AM  | Assemble at Hotel Lobby / Prepare Vans | Depart for Field Site             |
 | 09:00 AM - 11:30 AM  | Travel to SGP Main Office              | Travel                            |
 | 11:30 AM - 12:00 PM  | Check In / Site Safety Share           | Orientation                       |
-| 12:00 AM - 01:00 PM  | Lunch and Learn 2: SGP Science         | Lunch, Presentation, Sonde Launch |
+| 12:00 PM - 01:00 PM  | Lunch and Learn 2a: SGP REAL           | Adam Theisen                     |
+| 12:00 PM - 01:00 PM  | Lunch and Learn 2b: [Decadal Analysis](https://drive.google.com/file/d/1jmrQR4262y1K4us-YoYqrydyQ9EK88nq/view?usp=sharing)  | Adam Theisen                      |  
+| 12:00 AM - 01:00 PM  | Lunch and Learn 2c: History of the SGP | Mark Spychala |
 | 01:00 PM - 03:00 PM  | Tour of the Main Facility              | Guided Tour                       |
-| 03:00 PM - 03:30 PM  | Group Picture / Wrap Up                | Departure.                        |
+| 03:00 PM - 03:30 PM  | Sonde Launch / Group Picture / Wrap Up | Departure.                        |
 | 03:30 PM - 05:00 PM  | Return to Hotel Lobby                  | Arrive back at hotel              |
 
 ## Wednesday, 20 May 2026
@@ -62,7 +64,7 @@ Subject to change. Organizers will highlight changes within the 2026 Summer Scho
 | Time                 | Topic                                                          | Presenter(s)                       |
 | :---:                |    :----:                                                      |    :---:                           |
 | 08:00 AM - 08:15 AM  | Travel to National Weather Center                              |                                    |
-| 08:30 AM - 09:00 AM  | Finalize Project Pitch Decks                                   | Joe O'Brien                        |
+| 08:30 AM - 09:00 AM  | [Finalize Project Pitch Decks](https://drive.google.com/file/d/1np_TwYENhlip7QT-D-oBfDGvtHmoX2pD/view?usp=sharing)                                   | Joe O'Brien                        |
 | 09:00 AM - 09:30 AM  | Introduction to ARM JupyterHub                                 | Joe O'Brien                        |
 | 09:30 AM - 10:00 AM  | [Introduction to ACT](notebooks/act/ACT-Basics-SGP.ipynb)      | Adam Theisen                       |
 | 10:00 AM - 10:30 AM  | Coffee/Tea Break                                               |                                    |
