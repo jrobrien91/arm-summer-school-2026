@@ -48,6 +48,9 @@ project:
       orcid: 0000-0002-7602-1057
       github: AdamTheisen
     - name: Maria Zawadowicz
+    - name: Zach Sherman
+      orcid: 0000-0002-6455-8324
+      github: zssherman
   bibliography: references.bib
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
