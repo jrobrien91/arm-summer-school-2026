@@ -88,7 +88,7 @@ Subject to change. Organizers will highlight changes within the 2026 Summer Scho
 | 12:00 PM - 01:00 PM  | [Lunch and Learn 4: Open-Source ML Workflows](https://drive.google.com/file/d/16dggPOxmIxQEVwJxwGsGknYXoSXtaqt-/view?usp=sharing)  | Bobby Jackson                      |
 | 01:00 PM - 03:00 PM  | Group Work Time                              | Everyone                           |
 | 03:00 PM - 04:00 PM  | Office Hours 2 - (Group Work Continued)      | Joe O'Brien + Scott Collis         |
-| 04:00 PM - 04:30 PM  | Next Steps with the JupyterHub + ARM         | Michael Giansiracusa               |
+| 04:00 PM - 04:30 PM  | [Next Steps with the JupyterHub + ARM](https://drive.google.com/file/d/1raUvrPR0p4uuomnHLzOWzyqQdEZymhBR/view?usp=sharing)         | Michael Giansiracusa               |
 | 04:00 PM - 05:00 PM  | Final Preparation of Presentations           | Everyone                           |
 
 ## Friday, 22 May 2026
