@@ -4,6 +4,8 @@
 
 The “Big Open Data Science Summer School” is geared toward students from undergraduates to early postdoctoral scholars. Planned activities include instructional talks, tutorials, and a mentored hackathon for attendees to work with ARM data and open-source software.
 
+![SGP-Photo](/images/figures/Summer_school_2026.jpg)
+
 ## Mission
 The overarching mission of the summer school is to enhance the scientific impact of ARM observations through the instruction of students in new techniques to gain insight into atmospheric processes using open science tools.
 
@@ -36,6 +38,7 @@ The overarching mission of the summer school is to enhance the scientific impact
 | Maria Cadeddu  | Argonne National Laboratory           |  |
 | Connor Flynn   | University of Oklahoma                | [Github](https://github.com/ConnorJFlynn) |
 | Hsi-Yen Ma     | Lawrence Livermore National Laboratory | [Github](https://github.com/hyma68) |
+| Andrew Dzambo  | CIWRO                                 |  | 
 
 ## Running on Your Own Machine
 If you are interested in running this material locally on your computer, you will need to follow this workflow:
