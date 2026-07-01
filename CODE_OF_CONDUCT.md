@@ -17,7 +17,7 @@ We expect participants to follow these rules at all venues, online interactions 
 
 #### Reporting Procedures
 If you feel uncomfortable or think there may be a potential violation of the code of conduct, please report it immediately using one of the following methods. All reporters have the right to remain anonymous.
-**At any time, you are encouraged to reach out to any member of the ARM Summer School Instructor/Mentor Team. You can reach out to Joe O'Brien (732)771-4587 or Scott Collis (630)235-8025. You can also reach out to Joe O'Brien or Scott Collis on the Summer School slack channel.** All organizers information can be found in the [Mentor Bios](organizers/mentors.md). *Please reach out to the organizers with your concerns.*
+**At any time, you are encouraged to reach out to any member of the ARM Summer School Instructor/Mentor Team. You can reach out to Joe O'Brien (XXX)XXX-XXXX or Scott Collis (XXX)XXX-XXXX. You can also reach out to Joe O'Brien or Scott Collis on the Summer School slack channel.** All organizers information can be found in the [Mentor Bios](organizers/mentors.md). *Please reach out to the organizers with your concerns.*
 
 The organizers reserve the right to revise, make exceptions to, or otherwise amend these policies in whole or in part.
 
